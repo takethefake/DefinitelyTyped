@@ -1,7 +1,6 @@
 {
     "files": [
-        "index.d.ts",
-        "cloudflare-apps-tests.ts"
+        "index.d.ts"
     ],
     "compilerOptions": {
         "module": "commonjs",
